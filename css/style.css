@@ -1,0 +1,9 @@
+.jumbotron{
+	background-image:url("http://blog.panamajack.com/wp-content/uploads/2014/02/ss3.jpg");
+	background-size: cover;
+	color:white;
+}
+
+.jumbotron h1{
+	color:white;
+}
